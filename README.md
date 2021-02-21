@@ -5,7 +5,7 @@
 - After cloning the project, please install the requirements by running this command "pip install -r requirements.txt"
 - This would install all the dependencies and you are ready to run the project. 
 
-#### You can find the Project Code here:
+#### You can find the Code here:
 https://github.com/mishabuch/omscs-ml-cs7641
 
 #### To run the project, you can run the main.py file. 
@@ -22,6 +22,12 @@ https://github.com/mishabuch/omscs-ml-cs7641
 
 1. Diabetes Retinatherapy
 2. Phishing Websites
+
+#### The datasets for diabetes and phishing websites are in the datasets/diabetes and datasets/phishing_website_2 folders respectively.
+
+- The UCI Machine Learning Repository links for both are here:
+1. http://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set
+2. http://archive.ics.uci.edu/ml/datasets/Website+Phishing
 
 ###### Note: I have tried to use non blocking plot functions through out the code, but there are times when one manually needs to close the plot window in order to continue execution.
 
