@@ -5,6 +5,9 @@
 - After cloning the project, please install the requirements by running this command "pip install -r requirements.txt"
 - This would install all the dependencies and you are ready to run the project. 
 
+#### You can find the Project Code here:
+https://github.com/mishabuch/omscs-ml-cs7641
+
 #### To run the project, you can run the main.py file. 
 - Upon running the main.py file, you would be asked to choose a learner out of the five learners, for either of the two datasets. Please enter the number of your choice of learner and dataset. 
 
