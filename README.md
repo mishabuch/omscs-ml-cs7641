@@ -35,3 +35,5 @@ During the course of this assignment, i have taken help from various documents a
 7. https://stackoverflow.com/questions/31231499/pruning-and-boosting-in-decision-trees
 8. https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
 9. https://towardsdatascience.com/predicting-wine-quality-with-several-classification-techniques-179038ea6434
+
+###### Just For Fun : I tried various other datasets as part of this assignment in order to select 2. All of them are available in the dataset_loader.py, ready and massaged to use. You you try them out by tweaking the code in main.py. 
