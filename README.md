@@ -21,3 +21,17 @@
 2. Phishing Websites
 
 ###### Note: I have tried to use non blocking plot functions through out the code, but there are times when one manually needs to close the plot window in order to continue execution.
+
+#### REFERENCES
+
+During the course of this assignment, i have taken help from various documents as well as blogs on the internet in order to learn more about the behaviour of various learners. Here is the list of all the links used:
+
+1. https://towardsdatascience.com/how-to-find-decision-tree-depth-via-cross-validation-2bf143f0f3d6
+2. http://chrisstrelioff.ws/sandbox/2015/06/25/decision_trees_in_python_again_cross_validation.html
+3. https://www.ritchieng.com/machine-learning-cross-validation/ 
+4. Official Scikit documentation for various learners
+5. https://medium.com/towards-artificial-intelligence/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf
+6. https://towardsdatascience.com/decision-tree-classifier-and-cost-computation-pruning-using-python-b93a0985ea77
+7. https://stackoverflow.com/questions/31231499/pruning-and-boosting-in-decision-trees
+8. https://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/
+9. https://towardsdatascience.com/predicting-wine-quality-with-several-classification-techniques-179038ea6434
